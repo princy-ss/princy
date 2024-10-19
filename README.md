@@ -1,0 +1,2 @@
+# princy
+simple django application
